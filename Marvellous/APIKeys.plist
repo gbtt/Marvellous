@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   apikeys.plist
+   Marvellous
+
+   Created by Giuseppe Bottiglieri on 21/01/18.
+   Copyright (c) 2018 gbtt. All rights reserved.
+-->
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>publicKey</key>
+        <string>298eab7c1b0fe9bdb2159c5efc5e25f2</string>
+        <key>privateKey</key>
+        <string>77a708735f3371d5db13051b19fc0b25ef3104f7</string>
+    </dict>
+</plist>
