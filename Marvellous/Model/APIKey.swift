@@ -12,7 +12,7 @@ class APIKey {
     static var publicKey = ""
     static var privateKey = ""
     
-    init() {
+    static func initialize() {
         if let path = Bundle.main.path(forResource: "APIKeys", ofType: "plist") {
             let keys = NSDictionary(contentsOfFile: path)
             guard let publicKey = keys?["publicKey"] else { return }
